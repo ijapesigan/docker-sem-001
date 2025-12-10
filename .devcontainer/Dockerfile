@@ -7,4 +7,4 @@ RUN chmod 777 /usr/src/local/src/setup.sh         && \
 
 # extra metadata
 LABEL author="Ivan Jacob Agaloos Pesigan <ijapesigan@gmail.com>"
-LABEL description="ijapesigan/sem container."
+LABEL description="ijapesigan/sem-001 container."
