@@ -18,3 +18,7 @@ function apt_install() {
 
 apt_install \
     wget
+
+# gsl
+apt_install \
+    libgsl-dev
